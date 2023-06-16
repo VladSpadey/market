@@ -1,0 +1,22 @@
+# Node.js dependencies:
+node_modules/
+package-lock.json
+
+# Environment-specific files:
+.env
+.env.local
+
+# Build and compiled files:
+/build/
+/dist/
+/public/uploads/
+
+# Logs and debugging files:
+/logs/
+*.log
+
+User-specific or machine-specific files:
+.DS_Store
+.idea/
+.vscode/
+.npmrc
